@@ -1,0 +1,27 @@
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Domain\bin\Debug\netcoreapp2.1\MyTasks.Domain.deps.json
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Domain\bin\Debug\netcoreapp2.1\MyTasks.Domain.dll
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Domain\bin\Debug\netcoreapp2.1\MyTasks.Domain.pdb
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\MyTasks.Domain.csprojResolveAssemblyReference.cache
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\MyTasks.Domain.csproj.CoreCompileInputs.cache
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\MyTasks.Domain.AssemblyInfoInputs.cache
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\MyTasks.Domain.AssemblyInfo.cs
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\MyTasks.Domain.dll
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\MyTasks.Domain.pdb
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Domain\bin\Debug\netcoreapp2.1\MyTasks.Domain.deps.json
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Domain\bin\Debug\netcoreapp2.1\MyTasks.Domain.dll
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Domain\bin\Debug\netcoreapp2.1\MyTasks.Domain.pdb
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\MyTasks.Domain.csprojAssemblyReference.cache
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\MyTasks.Domain.csproj.CoreCompileInputs.cache
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\MyTasks.Domain.AssemblyInfoInputs.cache
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\MyTasks.Domain.AssemblyInfo.cs
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\MyTasks.Domain.dll
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\MyTasks.Domain.pdb
+D:\Pojetos .NET\MyTasks\MyTasks.Domain\bin\Debug\netcoreapp2.1\MyTasks.Domain.deps.json
+D:\Pojetos .NET\MyTasks\MyTasks.Domain\bin\Debug\netcoreapp2.1\MyTasks.Domain.dll
+D:\Pojetos .NET\MyTasks\MyTasks.Domain\bin\Debug\netcoreapp2.1\MyTasks.Domain.pdb
+D:\Pojetos .NET\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\MyTasks.Domain.csprojAssemblyReference.cache
+D:\Pojetos .NET\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\MyTasks.Domain.csproj.CoreCompileInputs.cache
+D:\Pojetos .NET\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\MyTasks.Domain.AssemblyInfoInputs.cache
+D:\Pojetos .NET\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\MyTasks.Domain.AssemblyInfo.cs
+D:\Pojetos .NET\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\MyTasks.Domain.dll
+D:\Pojetos .NET\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\MyTasks.Domain.pdb

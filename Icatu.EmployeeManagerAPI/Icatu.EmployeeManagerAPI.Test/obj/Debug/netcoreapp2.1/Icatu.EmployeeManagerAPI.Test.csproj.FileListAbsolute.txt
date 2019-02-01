@@ -1,0 +1,81 @@
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.csprojAssemblyReference.cache
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.csproj.CoreCompileInputs.cache
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.RazorAssemblyInfo.cache
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.RazorAssemblyInfo.cs
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.AssemblyInfoInputs.cache
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.AssemblyInfo.cs
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.deps.json
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.runtimeconfig.json
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.runtimeconfig.dev.json
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.dll
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.pdb
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Application.dll
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Data.dll
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.dll
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Service.dll
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Application.pdb
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Application.xml
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Data.pdb
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.pdb
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Service.pdb
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.RazorTargetAssemblyInfo.cache
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.csproj.CopyComplete
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.dll
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.pdb
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.deps.json
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.runtimeconfig.json
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.runtimeconfig.dev.json
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.dll
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.pdb
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Application.dll
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Data.dll
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.dll
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Service.dll
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Application.pdb
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Application.xml
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Data.pdb
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.pdb
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Service.pdb
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.csprojAssemblyReference.cache
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.csproj.CoreCompileInputs.cache
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.RazorAssemblyInfo.cache
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.RazorAssemblyInfo.cs
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.AssemblyInfoInputs.cache
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.AssemblyInfo.cs
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.RazorTargetAssemblyInfo.cache
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.csproj.CopyComplete
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.dll
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.pdb
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.deps.json
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.runtimeconfig.json
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.runtimeconfig.dev.json
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.dll
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.pdb
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Application.dll
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Data.dll
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.dll
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Service.dll
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Application.pdb
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Application.xml
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Data.pdb
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.pdb
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Service.pdb
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.csprojAssemblyReference.cache
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.csproj.CoreCompileInputs.cache
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.RazorAssemblyInfo.cache
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.RazorAssemblyInfo.cs
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.AssemblyInfoInputs.cache
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.AssemblyInfo.cs
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.RazorTargetAssemblyInfo.cache
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.csproj.CopyComplete
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.dll
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Test\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Test.pdb

@@ -1,0 +1,41 @@
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Service.deps.json
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Service.dll
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Service.pdb
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Data.dll
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Domain.dll
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Data.pdb
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Domain.pdb
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\obj\Debug\netcoreapp2.1\MyTasks.Service.csprojResolveAssemblyReference.cache
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\obj\Debug\netcoreapp2.1\MyTasks.Service.csproj.CoreCompileInputs.cache
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\obj\Debug\netcoreapp2.1\MyTasks.Service.AssemblyInfoInputs.cache
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\obj\Debug\netcoreapp2.1\MyTasks.Service.AssemblyInfo.cs
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\obj\Debug\netcoreapp2.1\MyTasks.Service.dll
+C:\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\obj\Debug\netcoreapp2.1\MyTasks.Service.pdb
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Service.deps.json
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Service.dll
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Service.pdb
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Data.dll
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Domain.dll
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Data.pdb
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Domain.pdb
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\obj\Debug\netcoreapp2.1\MyTasks.Service.csprojAssemblyReference.cache
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\obj\Debug\netcoreapp2.1\MyTasks.Service.csproj.CoreCompileInputs.cache
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\obj\Debug\netcoreapp2.1\MyTasks.Service.AssemblyInfoInputs.cache
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\obj\Debug\netcoreapp2.1\MyTasks.Service.AssemblyInfo.cs
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\obj\Debug\netcoreapp2.1\MyTasks.Service.csproj.CopyComplete
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\obj\Debug\netcoreapp2.1\MyTasks.Service.dll
+C:\BKP\BackEnd_Mobile\MyTask\MyTasks\MyTasks.Service\obj\Debug\netcoreapp2.1\MyTasks.Service.pdb
+D:\Pojetos .NET\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Service.deps.json
+D:\Pojetos .NET\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Service.dll
+D:\Pojetos .NET\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Service.pdb
+D:\Pojetos .NET\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Data.dll
+D:\Pojetos .NET\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Domain.dll
+D:\Pojetos .NET\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Data.pdb
+D:\Pojetos .NET\MyTasks\MyTasks.Service\bin\Debug\netcoreapp2.1\MyTasks.Domain.pdb
+D:\Pojetos .NET\MyTasks\MyTasks.Service\obj\Debug\netcoreapp2.1\MyTasks.Service.csprojAssemblyReference.cache
+D:\Pojetos .NET\MyTasks\MyTasks.Service\obj\Debug\netcoreapp2.1\MyTasks.Service.csproj.CoreCompileInputs.cache
+D:\Pojetos .NET\MyTasks\MyTasks.Service\obj\Debug\netcoreapp2.1\MyTasks.Service.AssemblyInfoInputs.cache
+D:\Pojetos .NET\MyTasks\MyTasks.Service\obj\Debug\netcoreapp2.1\MyTasks.Service.AssemblyInfo.cs
+D:\Pojetos .NET\MyTasks\MyTasks.Service\obj\Debug\netcoreapp2.1\MyTasks.Service.csproj.CopyComplete
+D:\Pojetos .NET\MyTasks\MyTasks.Service\obj\Debug\netcoreapp2.1\MyTasks.Service.dll
+D:\Pojetos .NET\MyTasks\MyTasks.Service\obj\Debug\netcoreapp2.1\MyTasks.Service.pdb

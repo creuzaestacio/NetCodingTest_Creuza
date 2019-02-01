@@ -1,0 +1,9 @@
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\bin\Release\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.deps.json
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\bin\Release\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.dll
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\bin\Release\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.pdb
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Release\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.csprojAssemblyReference.cache
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Release\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.csproj.CoreCompileInputs.cache
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Release\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.AssemblyInfoInputs.cache
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Release\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.AssemblyInfo.cs
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Release\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.dll
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Release\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.pdb

@@ -1,0 +1,43 @@
+D:\Pojetos .NET\MyTasks\MyTasks.Domain\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.deps.json
+D:\Pojetos .NET\MyTasks\MyTasks.Domain\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.dll
+D:\Pojetos .NET\MyTasks\MyTasks.Domain\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.pdb
+D:\Pojetos .NET\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.csproj.CoreCompileInputs.cache
+D:\Pojetos .NET\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.AssemblyInfoInputs.cache
+D:\Pojetos .NET\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.AssemblyInfo.cs
+D:\Pojetos .NET\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.dll
+D:\Pojetos .NET\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.pdb
+D:\Pojetos .NET\MyTasks\MyTasks.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.csprojAssemblyReference.cache
+D:\Pojetos .NET\MyTasks\Icatu.EmployeeManagerAPI.Domain\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.deps.json
+D:\Pojetos .NET\MyTasks\Icatu.EmployeeManagerAPI.Domain\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.dll
+D:\Pojetos .NET\MyTasks\Icatu.EmployeeManagerAPI.Domain\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.pdb
+D:\Pojetos .NET\MyTasks\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.csproj.CoreCompileInputs.cache
+D:\Pojetos .NET\MyTasks\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.AssemblyInfoInputs.cache
+D:\Pojetos .NET\MyTasks\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.AssemblyInfo.cs
+D:\Pojetos .NET\MyTasks\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.dll
+D:\Pojetos .NET\MyTasks\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.pdb
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.deps.json
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.dll
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.pdb
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.csproj.CoreCompileInputs.cache
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.AssemblyInfoInputs.cache
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.AssemblyInfo.cs
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.dll
+D:\Pojetos .NET\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.pdb
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.deps.json
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.dll
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.pdb
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.csprojAssemblyReference.cache
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.csproj.CoreCompileInputs.cache
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.AssemblyInfoInputs.cache
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.AssemblyInfo.cs
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.dll
+D:\Repository\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.pdb
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.deps.json
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.dll
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\bin\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.pdb
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.csprojAssemblyReference.cache
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.csproj.CoreCompileInputs.cache
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.AssemblyInfoInputs.cache
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.AssemblyInfo.cs
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.dll
+D:\NetCodingTest_Creuza\Icatu.EmployeeManagerAPI\Icatu.EmployeeManagerAPI.Domain\obj\Debug\netcoreapp2.1\Icatu.EmployeeManagerAPI.Domain.pdb
