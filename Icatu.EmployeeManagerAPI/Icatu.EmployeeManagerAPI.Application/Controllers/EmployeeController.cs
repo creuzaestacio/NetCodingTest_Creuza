@@ -18,14 +18,24 @@ namespace Icatu.EmployeeManagerAPI.Application.Controllers
         private BaseService<Employee> service = new BaseService<Employee>();
 
         // GET api/values
-        [HttpGet]
-        public IActionResult Get()
+        [HttpGet("{page_size}/{page}")]
+        public IActionResult GetAll(int page_size = 10, int page = 1)
         {
             try
             {
                 var result = service.Get();
 
-                return new ObjectResult(result);
+                int totalPaginas = (int)Math.Ceiling(result.Count() / Convert.ToDecimal(page_size));
+
+                if (totalPaginas >= page)
+                {
+                    var paginacao = result.OrderBy(x => x.Id).Skip(page_size * (page - 1)).Take(page_size);
+                    return new ObjectResult(paginacao);
+                }
+                else
+                {
+                    return new ObjectResult(result);
+                }
 
             }
             catch (ArgumentNullException ex)

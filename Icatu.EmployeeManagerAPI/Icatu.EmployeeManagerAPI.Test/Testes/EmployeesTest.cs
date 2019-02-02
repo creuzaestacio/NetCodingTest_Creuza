@@ -1,9 +1,8 @@
 ﻿using FluentAssertions;
+using System;
 using System.Net;
 using System.Threading.Tasks;
 using Xunit;
-
-
 
 namespace Icatu.EmployeeManagerAPI.Test.Testes
 {
@@ -17,12 +16,13 @@ namespace Icatu.EmployeeManagerAPI.Test.Testes
         }
 
         [Fact]
-        public void Get_Employees()
+        public async Task Get_Employees()
         {
-            var response = _testContext.Client.GetAsync("/api/employees");
-
-            Assert.NotEmpty(response.Id.ToString());
+            var response = await _testContext.Client.GetAsync("/api/employees/1/1");
+            response.EnsureSuccessStatusCode();
+            response.StatusCode.Should().Be(HttpStatusCode.OK);
         }
+
 
     }
 }
